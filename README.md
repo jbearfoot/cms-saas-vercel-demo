@@ -11,7 +11,7 @@
   - [2.4. Product specific instructions](#24-product-specific-instructions)
     - [2.4.1. Content Recommendations](#241-content-recommendations)
 - [3. Further documentation](#3-further-documentation)
-
+ 
 
 ## 1. Introduction
 This repository contains content and frontend that form the Optimizely SaaS CMS Demo Site. 
