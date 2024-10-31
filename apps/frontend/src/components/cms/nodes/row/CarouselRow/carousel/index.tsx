@@ -87,7 +87,7 @@ export const Carousel: FunctionComponent<CarouselProps> = ({
       <motion.div
         className="flex order-first pl-[50%]"
         style={{
-          "--item-width": `${itemWidth}vw`,
+          // "--item-width": `${itemWidth}vw`,
           width: `calc(${itemCount * itemWidth}vw + ${(itemCount - 1) * 30}px)`,
           x: `${ (0.5 * itemWidth) - ((currentIndex + 2)*itemWidth) }vw`,
           transition: "0.5s",
